@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">, I am Divine-Favour Anigbogu
 
 <!--
 **Anidimma/Anidimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
