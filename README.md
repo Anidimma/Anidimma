@@ -19,7 +19,7 @@ I am an intermediate level python programmer with various projects under my belt
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anidimma&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width="480" height="200" style="max-width:50%;"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anidimma&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width="489" height="200" style="max-width:50%;"/>
 <p/>
 
 
