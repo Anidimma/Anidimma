@@ -7,7 +7,37 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="320" style="max-width:100%;">
 
-I am a Data Scientist with intermediate level python programming skillset, I also have various projects under my belt which validate my skill set. Having spent countless hours coding, debugging, on Kaggle Competitions, and troubleshooting troublesome code I have familiarized myself with the language. I currently use Python for Data Science Projects, Training and Testing, Data Visualization, Data Mining, Data Interpretation, and Model Building. I have familiarized myself with the popular Data Science and Machine Learning Platforms; such as Kaggle, Google Colab, Anaconda, Jupyter Lab, RStudio, and Jupyter Notebook. I have beginner level knowledge of the R programming language. Also beginner level knowledge of cloud computing. I aim to advance my knowledge in these fields.
+I am a Data Scientist with expertise in python programming, Excel, and Google sheets. With thousands of programming hours and problem solving experience I aim to use my expertise to deliver the best results in any project. I also various Data Science projects under my belt which validate my skill set.
+
+The skills I offer as a Data Scientist are:
+
+1. Data Collection & Insights:
+- A&B testing
+- Exploratory data analysis
+- Data wrangling, cleaning, tidying
+- Data interpretation
+- Data mining
+- Feature engineering
+- Web scrapping
+- Descriptive summary statistics and other analyses
+- Data visualization (Excel, Google Sheets, Python)
+
+2. Machine Learning
+- Regression models
+- Nearest neighbors analysis
+- Clustering analysis
+- Recommendation System
+- Model building
+
+I have also familiarized myself with popular Data Science and Machine Learning Platforms; such as:
+
+- Kaggle
+- Google Colab
+- Microsoft Excel
+- Anaconda
+- Jupyter Lab/Jupyter Notebook
+- Google Sheets
+- RStudio
 
 
 - 🌱 I’m currently learning **R programming, Excel, Power Bi, Hadoop**
