@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="350" style="max-width:100%;">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="350" style="max-width:100%;">
 
 I am a Data Scientist with expertise in python programming, Excel, and Google sheets. With thousands of programming hours and problem solving experience I aim to use my expertise to deliver the best results in any project. I also various Data Science projects under my belt which validate my skill set.
 
