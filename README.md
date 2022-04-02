@@ -10,7 +10,7 @@ I am a Data Scientist with expertise in python programming, Excel, and Google sh
 
 The skills I offer as a Data Scientist are:
 
-1. Data Collection & Insights:
+- Data Collection & Insights
 - A&B testing
 - Exploratory data analysis
 - Data wrangling, cleaning, tidying
@@ -21,12 +21,15 @@ The skills I offer as a Data Scientist are:
 - Descriptive summary statistics and other analyses
 - Data visualization (Excel, Google Sheets, Python)
 
-2. Machine Learning
-- Regression models
-- Nearest neighbors analysis
-- Clustering analysis
-- Recommendation System
-- Model building
+The skills I offer as a  Machine Learning engineer are:
+- Model Building
+- Model Testing
+- Deployment 
+- Hyper Parameter Tuning
+
+I also offer back end expertises with frameworks such as Django. 
+And DevOps expertise with Docker
+
 
 I have also familiarized myself with popular Data Science and Machine Learning Platforms; such as:
 
