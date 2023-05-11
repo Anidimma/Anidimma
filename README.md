@@ -41,9 +41,8 @@ I have also familiarized myself with popular Data Science and Machine Learning P
 - Google Sheets
 - RStudio
 
-######################################################################################################
+###################################################################################################
 
-- 🌱 I’m currently learning **Power Bi, Hadoop**
 - 📫 How to reach me **divineanigbogu@gmail.com**
 - ⚡ Fun fact **I love anime/manga, superheroes/comics**
 
