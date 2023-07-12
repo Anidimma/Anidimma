@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/Anidimma/Anidimma/blob/main/Gif/code.gif?raw=true" width="350" height="350" style="max-width:100%;">
+<img align="right" alt="GIF" src="https://github.com/Anidimma/Anidimma/blob/main/Gif/code.gif?raw=true" width="250" height="250" style="max-width:100%;">
 
 I am a Data Scientist | Machine Learning and DevOps Engineer with expertise in Python, R, JavaScript, Django, PyTorch, SQL, Visual Basic, Docker, Excel, and Google sheets. With thousands of programming hours and problem solving experience I aim to use my expertise to deliver the best results in any project. I also various Data Science projects under my belt which validate my skill set.
 
