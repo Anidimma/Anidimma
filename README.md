@@ -30,9 +30,7 @@ As a Data Scientist with over 5 years of experience, I have honed my skills in d
 
 ---
 
-# **Projects in Progress (Incomplete)**
-
-## Machine Learning Projects
+# Machine Learning Projects
 
 
 ### Technologies Used
@@ -46,9 +44,9 @@ As a Data Scientist with over 5 years of experience, I have honed my skills in d
 [Python Projects.](https://github.com/Anidimma/Python_Projects)
 
 
-
 ---
 
+# **Projects in Progress (Incomplete)**
 
 ## ShopLive
 
