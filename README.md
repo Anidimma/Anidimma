@@ -32,6 +32,23 @@ As a Data Scientist with over 5 years of experience, I have honed my skills in d
 
 # **Projects in Progress (Incomplete)**
 
+## Machine Learning Projects
+
+
+### Technologies Used
+
+- Python
+- Jupyter Notebooks
+- Libraries (Scikit-learn, Pandas, NumPy)
+
+### Link
+
+[Python Projects.](https://github.com/Anidimma/Python_Projects)
+
+
+
+---
+
 
 ## ShopLive
 
@@ -84,21 +101,6 @@ SecureShare is a file sharing application designed to meet the standards of secu
 
 ---
 
-## Machine Learning Projects
-
-
-### Technologies Used
-
-- Python
-- Jupyter Notebooks
-- Libraries (Scikit-learn, Pandas, NumPy)
-
-### Link
-
-[Python Projects.](https://github.com/Anidimma/Python_Projects)
-
-
----
 
 
 <p>
