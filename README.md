@@ -22,7 +22,7 @@ The technologies I've worked with are:
  
 As a Data Scientist with over 5 years of experience, I have honed my skills in data analytics, data visualization, research, insight generation, database management, data reporting, and creating machine learning models. My expertise is in using data to drive decision-making, and I have a proven track record of delivering impactful solutions to complex problems.
 
-#####################################################################################################
+##########################################################################################################
 
 - 📫 How to reach me **divineanigbogu@gmail.com**
 - ⚡ Fun fact **I love anime/manga, superheroes/comics**
@@ -30,7 +30,7 @@ As a Data Scientist with over 5 years of experience, I have honed my skills in d
 
 ---
 
-# **Projects in Progress**
+# **Projects in Progress (Incomplete)**
 
 
 ## ShopLive
@@ -69,67 +69,36 @@ PlaneView is an innovative travel booking web application designed to simplify a
 
 ---
 
-### Software Development Project Template (Java)
+## SecureShare
 
-# Project Name
 
-Short description of the software development project, its scope, and its objectives.
+SecureShare is a file sharing application designed to meet the standards of security and user management. Developed in Java, this application introduces an advanced layer of file encryption, coupled with comprehensive administrator controls over file access and user privileges. By employing encryption at the file creation level and integrating fine-grained access controls, SecureShare ensures that sensitive information remains confidential and accessible only to authorized users.
 
-## Technologies Used
+### Technologies Used
 
 - Java
-- [Any frameworks or libraries like Spring, Hibernate, etc.]
-- [Other tools or platforms used in the project]
 
-## Features
+### Link
 
-List the key features of your project and any planned future enhancements.
-
-## Setup and Installation
-
-Detailed setup instructions, including environment setup, dependencies, and any necessary configuration.
-
-## How to Use
-
-Guide for developers or users on how to use the software or integrate it into their own projects.
-
-## Contributing
-
-How others can help improve the project or contribute to the codebase.
+[SecureShare](https://github.com/Anidimma/SecureShare)
 
 ---
 
-### Machine Learning Projects Template
+## Machine Learning Projects
 
-# Project Name
 
-An overview of the machine learning project, including the problem it addresses, datasets used, and the model approach.
-
-## Technologies Used
+### Technologies Used
 
 - Python
 - Jupyter Notebooks
-- Libraries (e.g., TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy)
+- Libraries (Scikit-learn, Pandas, NumPy)
 
-## Features
+### Link
 
-Describe the project's main components, such as data analysis, model training, and prediction capabilities.
+[Python Projects.](https://github.com/Anidimma/Python_Projects)
 
-## Setup and Installation
-
-Steps to install Python, Jupyter Notebooks, and other dependencies. How to clone the repository and start the notebooks.
-
-## How to Use
-
-Instructions on running the notebooks, understanding the data analysis, and how to replicate the machine learning models.
-
-## Contributing
-
-Guidance for contributing, including data, code improvements, or documentation updates.
 
 ---
-
-Feel free to adjust the templates to fit the specifics of each project, including adding any relevant badges, screenshots, or additional sections that might help others understand and contribute to your projects.
 
 
 <p>
